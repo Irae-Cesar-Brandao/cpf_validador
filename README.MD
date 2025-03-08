@@ -3,7 +3,7 @@ Projeto
 Validador de CPF é um projeto  para realizar validações de CPF e origem do mesmo. 
 Este aplicativo permite validar o CPF inserido e identificar a cidade onde o CPF foi registrado. A validação inclui um cálculo atualizado para garantir precisão e eficiência.
 
-
+Acesso pela WEB desta page: https://irae-cesar-brandao.github.io/cpf_validador/ 
 ## Linguagens utlizadas (Tecnologias) heart_eyes:
 - HTML
 - CSS
